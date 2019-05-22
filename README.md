@@ -1,2 +1,2 @@
 # GermHunter-MobileGame
-Germ Hunter - Runner game embed augmented reality with educational content
+Runner game embed augmented reality with educational content
